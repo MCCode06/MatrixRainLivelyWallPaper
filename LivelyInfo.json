@@ -1,0 +1,12 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Simple Matrix Rain",
+  "Thumbnail": "res/thumbnail.png",
+  "Preview": "res/preview.gif",
+  "Desc": "Classic Matrix digital rain effect with customizable font, color, speed, and characters using HTML5 Canvas.",
+  "Author": "Snani Zeynalli",
+  "License": "MIT",
+  "Contact": "https://github.com/snani/matrix-rain-wallpaper",
+  "Type": 1,
+  "FileName": "src/index.html"
+}
